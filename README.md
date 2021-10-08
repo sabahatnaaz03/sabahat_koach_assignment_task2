@@ -1,4 +1,4 @@
-#Chat App
+
 
 Hey! Here is Chat application using node.js (express) and socket.io. 
 
